@@ -22,4 +22,4 @@ La explosión de la estrella Cedafi ha generado un agujero negro que la nave deb
 
 ## Contents
 1. [Descripción](##Descripción)
-2. [Niveles](## Niveles)
+2. [Niveles](##Niveles)
