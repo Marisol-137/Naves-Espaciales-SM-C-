@@ -1,5 +1,9 @@
 # Naves-Espaciales-SM-C++-
 
+## Contents
+1. [Descripción](##Descripción)
+2. [Niveles](##Niveles)
+
 ## Descripción
 El juego de naves es un juego de obstáculos para una sola persona, donde él es el piloto que está huyendo de una guerra galáctica del planeta Namekusei y tiene que dirigir la nave esquivando los diferentes obstáculos que se le presenta para llegar a la estación de su planeta Endor, cada nivel se va poniendo más complicado y van surgiendo nuevos retos, donde debe recoger combustible para poder llegar a su planeta. Si el jugador gana, es coronado como héroe del planeta Endor por haber llevado recursos al ejército endoriano que está peleando en el planeta Namekusei.
 
@@ -20,6 +24,4 @@ Una vez superados los satélites, la nave se encuentra con otro problema: la exp
 ### N5: El agujero negro generado por Cedafi
 La explosión de la estrella Cedafi ha generado un agujero negro que la nave debe esquivar para poder llegar a su planeta, si no llegara a esquivarla pierde todas sus vidas. 
 
-## Contents
-1. [Descripción](##Descripción)
-2. [Niveles](##Niveles)
+
