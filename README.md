@@ -1,7 +1,7 @@
 # Naves-Espaciales-SM-C++-
 
 <p align="center">
-  <img width="auto" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com.mx%2Fforbes-life%2Ftecnologia-nave-espacial-dream-chaser%2F&psig=AOvVaw3O_H2b3wt4pe91Ls_epYCG&ust=1639448541794000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjZ2PTb3_QCFQAAAAAdAAAAABAD">
+  <img width="auto" height="auto" src="https://drive.google.com/file/d/17c4pMsjmdDD08Py2VXvzBEKe-kgZEn6o/view?usp=sharing">
 </p>
 
 ## Descripción
