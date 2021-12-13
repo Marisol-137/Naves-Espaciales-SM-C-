@@ -1,9 +1,5 @@
 # Naves-Espaciales-SM-C++-
 
-<p align="center">
-  <img width="auto" height="auto" src="https://drive.google.com/file/d/17c4pMsjmdDD08Py2VXvzBEKe-kgZEn6o/view?usp=sharing">
-</p>
-
 ## Descripción
 El juego de naves es un juego de obstáculos para una sola persona, donde él es el piloto que está huyendo de una guerra galáctica del planeta Namekusei y tiene que dirigir la nave esquivando los diferentes obstáculos que se le presenta para llegar a la estación de su planeta Endor, cada nivel se va poniendo más complicado y van surgiendo nuevos retos, donde debe recoger combustible para poder llegar a su planeta. Si el jugador gana, es coronado como héroe del planeta Endor por haber llevado recursos al ejército endoriano que está peleando en el planeta Namekusei.
 
