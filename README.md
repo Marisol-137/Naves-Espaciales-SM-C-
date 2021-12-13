@@ -1,4 +1,7 @@
 # Naves-Espaciales-SM-C++-
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-Espaciales-SM-C-plusplus/blob/main/1-7.jpg">
+</p>
 
 ## Contents
 1. [Descripción](##Descripción)
