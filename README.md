@@ -26,5 +26,9 @@ Una vez superados los satélites, la nave se encuentra con otro problema: la exp
 
 ### N5: El agujero negro generado por Cedafi
 La explosión de la estrella Cedafi ha generado un agujero negro que la nave debe esquivar para poder llegar a su planeta, si no llegara a esquivarla pierde todas sus vidas. 
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-Espaciales-SM-C-plusplus/blob/main/hgfvyti.PNG">
+</p>
+
 
 
