@@ -24,7 +24,7 @@ Luego de esquivar los asteroides y ovnis, la nave está saliendo del sistema pla
 ### N4: Explosión de estrella Cedafi
 Una vez superados los satélites, la nave se encuentra con otro problema: la explosión de una supernova, esto genera meteoritos de hielo y polvo galáctico que le dificultará a la nave seguir su camino.
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-Espaciales-SM-C-plusplus/blob/main/hgfvyti.PNG">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-Espaciales-SM-C-plusplus/blob/main/explosi%C3%B3n%20de%20la%20estrella%20cedafi.jpeg">
 </p>
 
 ### N5: El agujero negro generado por Cedafi
