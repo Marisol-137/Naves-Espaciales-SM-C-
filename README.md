@@ -21,8 +21,11 @@ Una vez logrado esquivar los asteroides pequeños se le vienen otros pero con ma
 ### N3: Satélites
 Luego de esquivar los asteroides y ovnis, la nave está saliendo del sistema planetario en el que se encuentra el planeta Namekusei, por lo cual debe cruzarse con muchos satélites pertenecientes a los planetas cercanos. Existen satélites pequeños que disminuyen una vida como el resto de obstáculos, pero también hay satélites gigantes que causan el doble de daño. 
 
-### N4: Explosión de estrella CedafiSatélites
+### N4: Explosión de estrella Cedafi
 Una vez superados los satélites, la nave se encuentra con otro problema: la explosión de una supernova, esto genera meteoritos de hielo y polvo galáctico que le dificultará a la nave seguir su camino.
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/Naves-Espaciales-SM-C-plusplus/blob/main/hgfvyti.PNG">
+</p>
 
 ### N5: El agujero negro generado por Cedafi
 La explosión de la estrella Cedafi ha generado un agujero negro que la nave debe esquivar para poder llegar a su planeta, si no llegara a esquivarla pierde todas sus vidas. 
